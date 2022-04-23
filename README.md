@@ -1,5 +1,15 @@
 Hi 👋 My name is Bruno Montañez
-===============================Web Developer-------------I've been learning to code for 3 years ago. I started with frontend fundamentals, html - css - js. Now I'm open to learn new technologies* 🌍  I'm based in Trujillo* ✉️  You can contact me at [brunoadrian.mont@gmail.com](mailto:brunoadrian.mont@gmail.com)* 🧠  I'm learning Laravel* ⚡  I'm a Cristiano Ronaldo fan
+===============================
+
+Web Developer
+-------------
+
+I've been learning to code for 3 years ago. I started with frontend fundamentals, html - css - js. Now I'm open to learn new technologies
+
+*   🌍  I'm based in Trujillo
+*   ✉️  You can contact me at [brunoadrian.mont@gmail.com](mailto:brunoadrian.mont@gmail.com)
+*   🧠  I'm learning Laravel
+*   ⚡  I'm a Cristiano Ronaldo fan
 
 ### Skills
 
