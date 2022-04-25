@@ -8,7 +8,7 @@ I've been learning to code for 3 years ago. I started with frontend fundamentals
 
 *   🌍  I'm based in Trujillo
 *   ✉️  You can contact me at [brunoadrian.mont@gmail.com](mailto:brunoadrian.mont@gmail.com)
-*   🧠  I'm learning Laravel
+*   🧠  I'm learning Laravel & VueJS
 *   ⚡  I'm a Cristiano Ronaldo fan
 
 ### Skills
