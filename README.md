@@ -4,7 +4,7 @@ Hi 👋 My name is Bruno Montañez
 Web Developer
 -------------
 
-I've been learning to code for 3 years ago. I started with frontend fundamentals, html - css - js. Now I'm open to learn new technologies
+Hello World, I'm a passionate web developer on a journey of exploration through the vast realm of coding. Started with MERN stack, but now discovering new horizons. Grateful to TypeScript for rescuing JavaScript. Fascinated by the potential of AI applications in web development.
 
 *   🌍  I'm based in Trujillo
 *   ✉️  You can contact me at [brunoadrian.mont@gmail.com](mailto:brunoadrian.mont@gmail.com)
