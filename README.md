@@ -1,14 +1,14 @@
 Hi 👋 My name is Bruno Montañez
 ===============================
 
-Web Developer
+Feels Developer
 -------------
 
 Hello World, I'm a passionate web developer on a journey of exploration through the vast realm of coding. Started with MERN stack, but now discovering new horizons. Grateful to TypeScript for rescuing JavaScript. Fascinated by the potential of AI applications in web development.
 
 *   🌍  I'm based in Trujillo
 *   ✉️  You can contact me at [brunoadrian.mont@gmail.com](mailto:brunoadrian.mont@gmail.com)
-*   🧠  I'm learning Typescript
+*   🧠  I'm learning Spring Boot
 *   ⚡  I'm a Cristiano Ronaldo fan
 
 ### Skills
